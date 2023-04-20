@@ -67,6 +67,7 @@
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <code><a href="https://powerbi.microsoft.com/en-au/" target="_blank"><img height="30" src="skills/powerbi.svg"></a></code>
+<code><a href="https://www.mongodb.com" target="_blank"><img height="30" src="skills/mongodb.svg"></a></code>
   
 </details>
 <br>
