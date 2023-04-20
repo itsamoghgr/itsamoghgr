@@ -103,9 +103,9 @@
   <a href="https://twitter.com/theamoghgr">
     <img align="left" alt="Amogh Ramagiri | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/itsamoghgr/">
+<!--   <a href="https://www.instagram.com/itsamoghgr/">
     <img align="left" alt="Amogh Ramagiri | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
+  </a> -->
    <a href="https://github.com/itsamoghgr">
     <img align="left" alt="Amogh Ramagiri| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
