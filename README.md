@@ -26,8 +26,24 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
+<code><a href="https://www.cprogramming.com" target="_blank"><img height="30" src="skills/c.svg"></a></code>
+
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="skills/python.svg"></a></code>
-  <code><a href="https://www.cprogramming.com" target="_blank"><img height="30" src="skills/c.svg"></a></code>
+<code><a href="https://numpy.org" target="_blank"><img height="30" src="skills/numpy.svg"></a></code> 
+<code><a href="https://pandas.pydata.org" target="_blank"><img height="30" src="skills/pandas.svg"></a></code>
+<code><a href="https://matplotlib.org" target="_blank"><img height="30" src="skills/matplotlib.svg"></a></code> 
+<code><a href="https://seaborn.pydata.org" target="_blank"><img height="30" src="skills/seaborn.svg"></a></code>
+<code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="30" src="skills/scikit-learn.svg"></a></code> 
+<code><a href="https://www.tensorflow.org" target="_blank"><img height="30" src="skills/tensorflow.svg"></a></code> 
+<code><a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img height="30" src="skills/flask.svg"></a></code>
+  
+<code><a href="https://www.mysql.com" target="_blank"><img height="30" src="skills/mysql.svg"></a></code>
+  
+
+<code><a href="https://html5.org" target="_blank"><img height="30" src="skills/html.svg"></a></code> 
+<code><a href="https://www.css3.com" target="_blank"><img height="30" src="skills/css.svg"></a></code>
+<code><a href="https://www.javascript.com" target="_blank"><img height="30" src="skills/javascript.svg"></a></code> 
+  
 <code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
