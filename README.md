@@ -27,7 +27,7 @@
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="skills/python.svg"></a></code>
-  <code><a href="https://www.cprogramming.com" target="_blank"><img height="30" src="c.svg"></a></code>
+  <code><a href="https://www.cprogramming.com" target="_blank"><img height="30" src="skills/c.svg"></a></code>
 <code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
