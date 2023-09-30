@@ -111,5 +111,5 @@
   </a>
   <br>
   
-<p text-size="10" align="right" > Thanks to <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+
 <!-- <p align="right" > <img src="https://komarev.com/ghpvc/?username=itsamoghgr&label=Profile%20views&color=0e75b6&style=flat" alt="itsamoghgr" /> </p> -->
