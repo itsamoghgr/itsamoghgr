@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Amogh Ramagiri</b>, Final year <b>Computer Science</b> undergraduate from <a href="https://www.presidencyuniversity.in"> <b>Presidency University</b>, Bangalore,India</a>.
+    This is me <b>Amogh Ramagiri</b>, Final year <b>Data Science</b> grad student from <a href=https://www.gwu.edu"> <b>The George Washington University</b>, Washington,DC </a>.
     An aspiring <b>Data Scientist, </b>
   <br>
   <b><i>"---It's not the destination that matters, its the journey.---"</i></b>
