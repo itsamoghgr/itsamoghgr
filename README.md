@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Amogh Ramagiri</b>, First year <b>Data Science</b> grad student from <a href=https://www.gwu.edu"> <b>The George Washington University</b>, Washington,DC </a>.
+    This is me <b>Amogh Ramagiri</b>, First year <b>Data Science</b> grad student at <a href=https://www.gwu.edu"> <b>George Washington University</b>, Washington,DC </a>.
     An aspiring <b>Data Scientist, </b>
   <br>
   <b><i>"---It's not the destination that matters, its the journey.---"</i></b>
