@@ -40,6 +40,7 @@
 
 
 <code><a href="https://www.mysql.com" target="_blank"><img height="30" src="skills/mysql.svg"></a></code>
+<code><a href="https://www.mongodb.com" target="_blank"><img height="30" src="skills/mongodb.svg"></a></code>
   
 
 <code><a href="https://html5.org" target="_blank"><img height="30" src="skills/html.svg"></a></code> 
@@ -52,6 +53,9 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<code><a href="https://powerbi.microsoft.com/en-au/" target="_blank"><img height="30" src="skills/powerbi.svg"></a></code>
+
   
 </details>
 <br>
@@ -65,9 +69,7 @@
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-<code><a href="https://powerbi.microsoft.com/en-au/" target="_blank"><img height="30" src="skills/powerbi.svg"></a></code>
-<code><a href="https://www.mongodb.com" target="_blank"><img height="30" src="skills/mongodb.svg"></a></code>
+
   
 </details>
 <br>
