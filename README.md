@@ -36,6 +36,7 @@
 <code><a href="https://seaborn.pydata.org" target="_blank"><img height="30" src="skills/seaborn.svg"></a></code>
 <code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="30" src="skills/scikit-learn.svg"></a></code> 
 <code><a href="https://www.tensorflow.org" target="_blank"><img height="30" src="skills/tensorflow.svg"></a></code> 
+<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img height="30" src="skills/flask.svg"></a></code>
 
 
@@ -68,7 +69,7 @@
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
+
 
   
 </details>
